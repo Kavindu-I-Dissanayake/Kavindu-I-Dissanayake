@@ -91,9 +91,6 @@ I believe strong fundamentals in networking create reliable systems.
   <img src="https://github.com/Kavindu-I-Dissanayake/Kavindu-I-Dissanayake/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> To activate the snake animation, you must create a GitHub Action workflow.
-> If you want, I’ll generate that workflow file for you next.
-
 ---
 
 ## 📫 Connect With Me
