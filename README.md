@@ -89,6 +89,9 @@ I believe strong fundamentals in networking create reliable systems.
 
 <p align="center">
   <img src="https://github.com/Kavindu-I-Dissanayake/Kavindu-I-Dissanayake/blob/output/github-contribution-grid-snake-dark.svg" />
+  ![snake animation](https://raw.githubusercontent.com/Kavindu-I-Dissanayake/Kavindu-I-Dissanayake/output/github-contribution-grid-snake.svg)
+  ![snake animation dark](https://raw.githubusercontent.com/Kavindu-I-Dissanayake/Kavindu-I-Dissanayake/output/github-contribution-grid-snake-dark.svg)
+
 </p>
 
 > To activate the snake animation, you must create a GitHub Action workflow.
