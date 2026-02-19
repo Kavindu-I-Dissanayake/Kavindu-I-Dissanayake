@@ -6,16 +6,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kavindu-I-Dissanayake&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Kavindu-I-Dissanayake?label=Followers&style=for-the-badge&labelColor=111111&color=00FF00" />
-</p>
-
-<p align="center">
   
+  <img src="https://img.shields.io/github/followers/Kavindu-I-Dissanayake?label=Followers&color=00FF00&style=for-the-badge" />
 </p>
-
-
-
----
 
 ## 🧠 About Me
 
@@ -103,11 +96,11 @@ I believe strong fundamentals in networking create reliable systems.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:induwara0460@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://linkedin.com/in/kavindu-induwara-dissanayake">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
