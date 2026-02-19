@@ -6,7 +6,14 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kavindu-I-Dissanayake&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Kavindu-I-Dissanayake?label=Followers&style=for-the-badge&labelColor=111111&color=00FF00" />
 </p>
+
+<p align="center">
+  
+</p>
+
+
 
 ---
 
