@@ -100,7 +100,7 @@ I believe strong fundamentals in networking create reliable systems.
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/kavindu-induwara-dissanayake">
+  <a href="https://linkedin.com/in/kavindu-induwara-dissanayake-43b181242">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
