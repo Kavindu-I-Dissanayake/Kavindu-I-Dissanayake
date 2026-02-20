@@ -10,6 +10,20 @@
   <img src="https://img.shields.io/github/followers/Kavindu-I-Dissanayake?label=Followers&color=00FF00&style=for-the-badge" />
 </p>
 
+## 🌐 Portfolio Website
+
+<p align="center">
+  <a href="https://terminal-portfolio-ten.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit-My_Portfolio-00FF00?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+🔗 **Live Site:** https://terminal-portfolio-ten.vercel.app/
+
+Interactive terminal-style portfolio showcasing my networking focus, backend systems, and technical journey.
+
+---
+
 ## 🧠 About Me
 
 ```bash
