@@ -1,83 +1,108 @@
 # 👨‍💻 Kavindu Induwara
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Aspiring+Network+Engineer;Backend+Developer;Routing+%7C+Switching+%7C+Infrastructure;Always+Learning..." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=800&lines=Network+Engineer+in+Progress...;Cyber+Security+Focused;Routing+%7C+Switching+%7C+Threat+Defense;Building+Secure+Digital+Infrastructure..." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kavindu-I-Dissanayake&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  
+  <img src="https://komarev.com/ghpvc/?username=Kavindu-I-Dissanayake&label=Profile+Views&color=00FF00&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Kavindu-I-Dissanayake?label=Followers&color=00FF00&style=for-the-badge" />
 </p>
 
-## 🌐 Portfolio Website
-
-<p align="center">
-  <a href="https://terminal-portfolio-ten.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit-My_Portfolio-00FF00?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-🔗 **Live Site:** https://terminal-portfolio-ten.vercel.app/
-
-Interactive terminal-style portfolio showcasing my networking focus, backend systems, and technical journey.
-
 ---
 
-## 🧠 About Me
+# 🟢 SYSTEM PROFILE
 
 ```bash
-> whoami
-Kavindu Induwara
-
-> specialization
-Network Infrastructure & Backend Systems
-
-> mission
-Master routing, switching, and scalable backend architecture
+> user: kavindu_induwara
+> status: undergraduate
+> university: University of Vavuniya
+> degree: BSc in Information Technology
+> primary_focus: Networking & Cyber Security
+> secondary_skills: Backend & Infrastructure Systems
+> mission: Secure. Optimize. Defend.
 ```
 
-I am an IT student from Sri Lanka focused on becoming a professional **Network Engineer**.
+I am an IT undergraduate at the **University of Vavuniya** specializing in  
+**Networking and Cyber Security**.
 
-My core interests include:
+My goal is to become a professional **Network & Security Engineer** capable of designing, securing, and defending enterprise-grade infrastructures.
 
-- Enterprise Routing & Switching  
-- Network Design & Topology Planning  
-- Backend API Architecture  
-- Infrastructure Logic & Troubleshooting  
-
-I believe strong fundamentals in networking create reliable systems.
+I believe strong networking fundamentals + security awareness = resilient systems.
 
 ---
 
-## 🖧 Network Engineering Focus
+# 🖧 NETWORKING CORE
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Routing](https://img.shields.io/badge/Routing-Advanced-blue?style=for-the-badge)
-![Switching](https://img.shields.io/badge/Switching-LAN-success?style=for-the-badge)
-![VLAN](https://img.shields.io/badge/VLAN-Configuration-important?style=for-the-badge)
-![Subnetting](https://img.shields.io/badge/Subnetting-Expertise-yellow?style=for-the-badge)
-![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-Labs-orange?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-Enterprise-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-Advanced-00FF00?style=for-the-badge)
+![Switching](https://img.shields.io/badge/Switching-LAN-00FF00?style=for-the-badge)
+![Subnetting](https://img.shields.io/badge/Subnetting-Expert-00FF00?style=for-the-badge)
+
+```bash
+> skills --network
+- Enterprise Routing & Switching
+- VLAN & Inter-VLAN Routing
+- Subnetting & IP Planning
+- Network Topology Design
+- Packet Tracer Labs
+- Network Troubleshooting
+```
 
 ---
 
-## 💻 Development Stack
+# 🔐 CYBER SECURITY MODULE
 
-### Languages
+![Cyber Security](https://img.shields.io/badge/Cyber-Security-Red?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network-Security-Critical?style=for-the-badge)
+![Firewall](https://img.shields.io/badge/Firewall-Config-orange?style=for-the-badge)
+![IDS](https://img.shields.io/badge/IDS/IPS-Basics-blue?style=for-the-badge)
+
+```bash
+> skills --security
+- Network Security Fundamentals
+- Firewall & Access Control Concepts
+- IDS / IPS Basics
+- Ethical Hacking Fundamentals
+- Threat Detection & Mitigation
+- Secure Infrastructure Design
+```
+
+---
+
+# 💻 SUPPORTING TECH STACK
+
+Even though Networking & Security are my core focus, I also build backend systems.
+
+## Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00FF00?style=for-the-badge&logo=python&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
+## Backend
+![NodeJS](https://img.shields.io/badge/Node.js-00FF00?style=for-the-badge&logo=nodedotjs&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-00FF00?style=for-the-badge&logo=mongodb&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-API-00FF00?style=for-the-badge)
 
 ---
 
-## 📂 Featured Projects
+# 📜 CERTIFICATIONS (In Progress & Future Goals)
+
+```bash
+> certifications --roadmap
+[ ] CCNA (Cisco Certified Network Associate)
+[ ] CompTIA Security+
+[ ] CEH (Certified Ethical Hacker)
+[ ] Cisco CyberOps Associate
+```
+
+(Currently building strong fundamentals to achieve these certifications.)
+
+---
+
+# 📂 PROJECTS
 
 ### 🎓 Fake Attendance Detector  
 🔗 https://github.com/Kavindu-I-Dissanayake/Fake-Attendance-Detector  
@@ -90,7 +115,7 @@ I believe strong fundamentals in networking create reliable systems.
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 SYSTEM ANALYTICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kavindu-I-Dissanayake&show_icons=true&theme=tokyonight" />
@@ -99,7 +124,7 @@ I believe strong fundamentals in networking create reliable systems.
 
 ---
 
-## 🐍 Contribution Graph (Cyber Mode)
+# 🐍 ACTIVITY TRACKER
 
 <p align="center">
   <img src="https://github.com/Kavindu-I-Dissanayake/Kavindu-I-Dissanayake/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -107,33 +132,36 @@ I believe strong fundamentals in networking create reliable systems.
 
 ---
 
-## 📫 Connect With Me
+# 📡 CONNECT
 
 <p align="center">
   <a href="mailto:induwara0460@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://linkedin.com/in/kavindu-induwara-dissanayake-43b181242">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
 </p>
 
 ---
 
-## 🎯 Career Objective
+# 🎯 TARGET OBJECTIVE
 
-Seeking internship or entry-level roles in:
+```bash
+> career_goal
+Become a highly skilled Network & Security Engineer
+who can design, secure and defend enterprise-scale infrastructures.
+```
 
-- Network Engineering  
-- Infrastructure Support  
-- Backend Development  
+---
 
 ```c
 while(alive) {
     learn();
     configure();
+    secure();
+    monitor();
     troubleshoot();
     improve();
 }
