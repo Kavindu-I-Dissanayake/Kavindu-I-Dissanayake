@@ -116,8 +116,12 @@ Even though Networking & Security are my core focus, I also build backend system
 # 📂 PROJECTS
 
 ### 🖧 Small Office Enterprise Network  
-Small Office Network – VLAN & Router-on-a-Stick Simulation (Cisco Packet Tracer)  
+Small Office Network – VLAN & Router-on-a-Stick Simulation (Cisco Packet Tracer)<br>
 🔗 https://github.com/Kavindu-I-Dissanayake/Small-Office-Network  
+
+### 🖧 Enterprise DHCP & DNS Network
+Enterprise Network Services – DHCP + DNS Deployment & Verification (Cisco Packet Tracer)<br>
+🔗 https://github.com/Kavindu-I-Dissanayake/Enterprise-DHCP-DNS-Lab
 
 ### 🎓 Fake Attendance Detector  
 Backend-based verification system  
