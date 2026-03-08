@@ -136,7 +136,7 @@ REST-based URL shortening service
 🔗 https://github.com/Kavindu-I-Dissanayake/CodeAlpha_URL_Shortener  
 
 ### 🔗 Advanced Port Scanner
-A Python-based multi-threaded TCP port scanner for network discovery and port analysis.
+A Python-based multi-threaded TCP port scanner for network discovery and port analysis.<br>
 🔗 https://github.com/Kavindu-I-Dissanayake/port-scanner.git
 
 
