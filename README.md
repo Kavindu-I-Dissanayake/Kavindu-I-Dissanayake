@@ -139,6 +139,10 @@ REST-based URL shortening service
 A Python-based multi-threaded TCP port scanner for network discovery and port analysis.<br>
 🔗 https://github.com/Kavindu-I-Dissanayake/port-scanner.git
 
+### 🔗 MoonBeat
+Interval-based timer app with repeating alarms, notifications, and vibration support.<br>
+🔗 https://github.com/Kavindu-I-Dissanayake/MoonBeat.git
+
 
 ---
 
