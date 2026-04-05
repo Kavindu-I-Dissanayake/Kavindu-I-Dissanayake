@@ -135,11 +135,11 @@ Full-stack system with backend integration
 REST-based URL shortening service  
 🔗 https://github.com/Kavindu-I-Dissanayake/CodeAlpha_URL_Shortener  
 
-### 🔗 Advanced Port Scanner
+### 🔍 Advanced Port Scanner
 A Python-based multi-threaded TCP port scanner for network discovery and port analysis.<br>
 🔗 https://github.com/Kavindu-I-Dissanayake/port-scanner.git
 
-### 🔗 MoonBeat
+### 🌙 MoonBeat
 Interval-based timer app with repeating alarms, notifications, and vibration support.<br>
 🔗 https://github.com/Kavindu-I-Dissanayake/MoonBeat.git
 
