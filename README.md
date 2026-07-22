@@ -143,6 +143,11 @@ A Python-based multi-threaded TCP port scanner for network discovery and port an
 Interval-based timer app with repeating alarms, notifications, and vibration support.<br>
 🔗 https://github.com/Kavindu-I-Dissanayake/MoonBeat.git
 
+### 👕 NDS MED WEAR
+Responsive medical wear e-commerce website built with React<br>
+🌐 Live Demo: https://nds-med-wear.vercel.app/<br>
+🔒 Source Code: Private Repository
+
 
 ---
 
